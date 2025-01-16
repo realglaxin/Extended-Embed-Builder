@@ -1,4 +1,5 @@
-# Extended Embed Builder
+# Extended Embed Builder Website
 
-**The Extended Embed Builder For Upcoming Discord-Bot-Typescript-Template!**\
-This is a fork of https://github.com/cubedhuang/discord-embed-creator btw!
+A simple and efficient embed builder website for the upcoming **Discord Bot TypeScript Template**, the template utilizes a custom embed class initialized in the client to optimize memory usage and performance.\
+
+This is a fork of **cubedhuang/discord-embed-creator** with some modifications for output.
